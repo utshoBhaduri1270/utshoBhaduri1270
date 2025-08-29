@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Utsho</h1>
 <h3 align="center">I specialize in process simulation, control systems, and machine learning applications—primarily focused on the petroleum and mining industries. </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utshoBhaduri1270&label=Profile%20views&color=0e75b6&style=flat" alt="utshoBhaduri1270" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshoBhaduri1270&theme=default" alt="utshoBhaduri1270" /></a> </p>
-
-- 🌱 I’m currently learning **deep learning architectures such as U-Net and ResNet for advanced data analysis tasks. I'm also delving into digital twin systems for enhancing maintenance and safety in industrial operations.**
+- 🌱 I’m currently learning deep learning architectures such as U-Net and ResNet for advanced data analysis tasks. I'm also delving into digital twin systems for enhancing maintenance and safety in industrial operations
 
 - 📫 **utsho.pme@gmail.com**
 

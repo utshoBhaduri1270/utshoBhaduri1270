@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Utsho</h1>
 <h3 align="center">I specialize in process simulation, control systems, and machine learning applications—primarily focused on the petroleum and mining industries. </h3>
-- 🌱 I’m currently learning deep learning architectures such as U-Net and ResNet for advanced data analysis tasks. I'm also delving into digital twin systems for enhancing maintenance and safety in industrial operations
+- 🌱 I’m currently learning deep learning architectures such as <b>U-Net</b> and <b>ResNet</b> for advanced data analysis tasks. I'm also delving into <b>digital twin</b> systems for enhancing maintenance and safety in industrial operations
 
 - 📫 **utsho.pme@gmail.com**
 
@@ -34,9 +34,6 @@
 <div align="center">
 <a href="https://github.com/utshoBhaduri1270">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=utshoBhaduri1270&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utshoBhaduri1270&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utshoBhaduri1270&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utshoBhaduri1270&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utshoBhaduri1270&theme=2077" height="180em" />
 </div>
 
